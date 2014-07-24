@@ -34,3 +34,6 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+/ConsoleApplication1/ConsoleApplication1/bin/Debug
+/ConsoleApplication1/ConsoleApplication1/obj/Debug
+/ConsoleApplication1/ConsoleApplication1.v12.suo
